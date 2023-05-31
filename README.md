@@ -1,0 +1,1 @@
+# lambda_parquet_redshift_aws
